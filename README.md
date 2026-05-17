@@ -85,6 +85,6 @@ CI = \bar{x} \pm z \left(\frac{\sigma}{\sqrt{n}}\right)
 
 ## Author
 
-### Narasimhan Balaji
+### Lakshmi Narasimhan B
 
 Aspiring Data Analyst | Data Science Enthusiast
